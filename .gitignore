@@ -38,3 +38,7 @@ Thumbs.db
 # C9 files
 ######################
 .c9
+# Jekyll generated files
+########################
+_site
+
